@@ -41,6 +41,56 @@
         "be3":"beteszt3",
         "be4":"beteszt5",
         "hiv":"*link*"
+    },
+    {
+        "focim":"Tesztcimf",
+        "kep":"../Tartalom/cikkek/kepek/empty.png",
+        "be1":"beteszasdasdasda sdsdas dasdasdasdasdasda sdasdasdasdasdasdasdasdasda asdast1",
+        "cim":"Tesztcim",
+        "be2":"beteszt2",
+        "be3":"beteszt3",
+        "be4":"beteszt5",
+        "hiv":"*link*"
+    },
+    {
+        "focim":"Tesztcimf",
+        "kep":"../Tartalom/cikkek/kepek/empty.png",
+        "be1":"  dasdsd",
+        "cim":"Tesztcim",
+        "be2":"beteszt2",
+        "be3":"beteszt3",
+        "be4":"beteszt5",
+        "hiv":"*link*"
+    },
+    {
+        "focim":"Tesztcimf",
+        "kep":"../Tartalom/cikkek/kepek/empty.png",
+        "be1":"beteszt1",
+        "cim":"Tesztcim",
+        "be2":"beteszt2",
+        "be3":"beteszt3",
+        "be4":"beteszt5",
+        "hiv":"*link*"
+    },
+    {
+        "focim":"Tesztcimf",
+        "kep":"../Tartalom/cikkek/kepek/empty.png",
+        "be1":"beteszt1",
+        "cim":"Tesztcim",
+        "be2":"beteszt2",
+        "be3":"beteszt3",
+        "be4":"beteszt5",
+        "hiv":"*link*"
+    },
+    {
+        "focim":"Tesztcimf",
+        "kep":"../Tartalom/cikkek/kepek/empty.png",
+        "be1":"beteszt1",
+        "cim":"Tesztcim",
+        "be2":"beteszt2",
+        "be3":"beteszt3",
+        "be4":"beteszt5",
+        "hiv":"*link*"
     }
 ]
 }
