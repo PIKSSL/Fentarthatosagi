@@ -1,0 +1,27 @@
+
+nav, article, footer{
+    border: 2px solid rgb(247, 0, 0);
+}
+main{}
+
+
+
+
+
+
+
+
+
+#ctarolo{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: 2px solid rgb(0, 255, 102);
+
+}
+#cikk{
+    flex: 0 1 33%;
+}
+.kiskep{
+    width: 70%;
+}
