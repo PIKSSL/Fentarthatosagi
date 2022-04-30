@@ -1,8 +1,7 @@
 {
-    "Cikkek":[
-    {
+    "cikkek":[{
         "focim":"Tesztcimf",
-        "kep":"./Tartalom/cikkek/kepek/empty.png",
+        "kep":"../Tartalom/cikkek/kepek/empty.png",
         "be1":"beteszt1",
         "cim":"Tesztcim",
         "be2":"beteszt2",

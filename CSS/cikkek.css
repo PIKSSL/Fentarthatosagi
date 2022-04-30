@@ -1,27 +1,48 @@
 
-nav, article, footer{
+main, nav, article, footer{
     border: 2px solid rgb(247, 0, 0);
 }
-main{}
+body{
+    margin: 0%;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 
-
-
-
-
-
-
-
+nav{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: row-reverse;
+    height: 100px;
+    margin-bottom: 5px;
+}
+.menu{
+    flex: 0 1 10%;
+}
 
 #ctarolo{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
     border: 2px solid rgb(0, 255, 102);
-
+    gap: 11px;
 }
 #cikk{
-    flex: 0 1 33%;
+    border: 2px solid rgb(67, 20, 255);
+    flex: 0 1 32%;
+
+}
+#cikk img{
+    width: 100%;
 }
 .kiskep{
-    width: 70%;
+    width: 100%;
+    
+}
+footer{
+    margin-top: 5px;
 }
