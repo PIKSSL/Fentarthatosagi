@@ -37,20 +37,21 @@ nav{
     border: 2px solid rgb(0, 255, 102);
     justify-content:space-around;
 }
-#cikk{
+.cikk{
     margin-bottom: 3px;
     flex: 0 1 33%;
     background-color: rgb(113, 140, 162);
     overflow-y: hidden;
 
 }
-#cikk img{
+
+.cikk img{
     width: 100%;
 }
-#cikk h3{
+.cikk h3{
     margin:5px;
 }
-#cikk p{
+.cikk p{
     margin: 5px;
     text-align: justify;
 }

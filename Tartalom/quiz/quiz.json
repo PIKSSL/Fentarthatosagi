@@ -1,0 +1,124 @@
+{
+    "questions" : [
+    {
+      "question": "Található-e Magyarországon (műanyag) csomagolás mentes bolt?",
+      "answers": [
+        { "text": "Magyaroszágon nincs, de külföldön van", "correct": false },
+        { "text": "Magyaroszágon és külföldön sincs", "correct": false },
+        { "text": "Igen, van Magyarországon'", "correct": true }
+      ]
+    },
+    {
+      "question": "Hogyan dobjuk a szelektívbe a műanyagot?",
+      "answers": [
+        { "text": "Tisztán, kimosva", "correct": true },
+        { "text": "Koszosan", "correct": false },
+        { "text": "Mindegy", "correct": false }
+      ]
+    },
+    {
+      "question": "Ha bővíteni akarod a ruhatárad és mindegy milyen márkájú akkor...",
+      "answers": [
+        { "text": "Online vásárolok", "correct": false },
+        { "text": "Túrkálókban vásárolok", "correct": true },
+        { "text": "Noname boltokban vásárolok", "correct": false }
+      ]
+    },
+    {
+      "question": "Mi a legjobb alternatíva a nejlon zacskókra?",
+      "answers": [
+        { "text": "Vászon szatyrok", "correct": true },
+        { "text": "Papír zacskók", "correct": false },
+        { "text": "Erősebb műanyagból készült szatyrok", "correct": false }
+      ]
+    },
+    {
+      "question": "A felsorolás között mi a legkörnyezetbarátabb közlekedés?",
+      "answers": [
+        { "text": "Vonat", "correct": false },
+        { "text": "Autó", "correct": false },
+        { "text": "Séta", "correct": true }
+      ]
+    },
+    {
+      "question": "Ha szemetet látsz eldobva...",
+      "answers": [
+        { "text": "Belerúgok", "correct": false },
+        { "text": "Ott hagyom", "correct": false },
+        { "text": "Felveszem és kidobom a legközelebb kukába", "correct": true }
+      ]
+    },
+    {
+      "question": "Mi az újrahasznosítás célja?",
+      "answers": [
+        { "text": "A természetes erőforrások lehető legkevesebb felhasználása.", "correct": true },
+        { "text": "Kevesebb szemét legyen.", "correct": false },
+        { "text": "Mert jól hangzik.", "correct": false }
+      ]
+    },
+    {
+      "question": "Mi kerülhet a papír szelektívbe?",
+      "answers": [
+        { "text": "Olajjal/zsíradékkal szennyezett papír", "correct": false },
+        { "text": "Hőpapír (nyugta, blokk)", "correct": false },
+        { "text": "Újságok, tejes -gyümölcsleves papírdobozok, könyvek", "correct": true }
+      ]
+    },
+    {
+      "question": "Mi a komposzt?",
+      "answers": [
+        { "text": "Szerves és szervetlen anyagok lebomlásának a végterméke", "correct": false },
+        { "text": "Szerves anyagok lebomlásának a végterméke", "correct": true },
+        { "text": "Szervetlen anyagok lebomlásának a végterméke", "correct": false }
+      ]
+    },
+    {
+      "question": "Miket komposztálhatunk?",
+      "answers": [
+        { "text": "Fém, műanyag, vegyszeres dolgok", "correct": false },
+        { "text": "Zöldség - gyümölcs maradék, tojáshéj", "correct": true },
+        { "text": "Nagy ágak, fatörzsek, diófalevér", "correct": false }
+      ]
+    },
+    {
+      "question": "Vásárlásnál...",
+      "answers": [
+        { "text": "Figyelembe veszem, hogy milyen a csomagolása", "correct": true },
+        { "text": "Nem törödök, hogy milyen a csomagolása", "correct": false },
+        { "text": "Nem érdekel, hogy milyen a csomagolása", "correct": false }
+      ]
+    },
+    {
+      "question": "Ha elmegyek a boltba.....",
+      "answers": [
+        { "text": "Felvásárolom az egész LIDL-t", "correct": false },
+        { "text": "Mindent megveszek, amit a szemem kíván", "correct": false },
+        { "text": "Csak azt veszem meg amire szükségem van", "correct": true }
+      ]
+    },
+    {
+      "question": "Mi  a szürkevíz?",
+      "answers": [
+        { "text": "Javarészt a vécékben kepződik, olyan  szennyezett vízet értünk alatta, amiben fertőző, egészségre és környezetre veszélyes baktériumok vannak", "correct": false },
+        { "text": "Szürke színű víz", "correct": false },
+        { "text": "Olyan szennyezett víz amelyben, szappan vagy mosószer maradványok, kisebb nagyobb szennyeződések vannak.", "correct": true }
+      ]
+    },
+    {
+      "question": "Mi a feketevíz?",
+      "answers": [
+        { "text": "Javarészt a vécékben kepződik, olyan szennyezett vízet értünk alatta, amiben fertőző, egészségre és környezetre veszélyes baktériumok vannak", "correct": true },
+        { "text": "Olyan szennyezett víz amelyben, szappan vagy mosószer maradványok, kisebb nagyobb szennyeződések vannak.", "correct": false },
+        { "text": "Fekete színű víz", "correct": false }
+      ]
+    },
+    {
+      "question": "Az okostelefont...",
+      "answers": [
+        { "text": "Évente cserélem", "correct": false },
+        { "text": "Csak 2-3 évente cserélem", "correct": true },
+        { "text": "Amikor van egy jobb akkor azt rögtön megveszem", "correct": false }
+      ]
+    }
+  ]
+}
