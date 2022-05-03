@@ -31,15 +31,6 @@ function feltolt(){
     });
     
 }
-//HIBÁS:
-/*function DZS(eleresi){
-    fetch('../Tartalom/cikkek/cikktarolo.json')
-    .then(response => response.json())
-    .then(data => {
-      let tomb=data.cikkek
-      return tomb;
-    })
-}*/
 
 function overlayOn(){
     //console.log("teszt");
@@ -51,7 +42,12 @@ function overlayOn(){
     .then(data => {
       let tomb=data.cikkek
       console.log(tomb[1]);
-      
+      for (const key in tomb[1]) {
+        if(key.indexOf("be")>=0){
+          console.log(key);
+        }
+        
+      }
       console.log(item)
       document.getElementById("cikktartalom").innerHTML = tartalom;
     });
