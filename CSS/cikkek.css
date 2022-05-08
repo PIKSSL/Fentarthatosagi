@@ -4,7 +4,7 @@ main, nav, article, footer{
 }
 body{
     margin: 0%;
-    background-color: azure;
+    background-color: rgb(255, 255, 255);
     font-family: 'Lato', sans-serif;
 }
 main{
@@ -34,15 +34,16 @@ nav{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    
     border: 2px solid rgb(0, 255, 102);
     justify-content:space-around;
+    
 }
 .cikk{
     margin-bottom: 3px;
     flex: 0 1 33%;
-    background-color: rgb(113, 140, 162);
+    background-color: rgb(215, 214, 214);
     overflow-y: hidden;
-
 }
 
 .cikk img{
@@ -50,6 +51,8 @@ nav{
 }
 .cikk h3{
     margin:5px;
+
+    border-bottom: 2px solid rgb(183, 183, 183);
 }
 .cikk p{
     margin: 5px;
@@ -83,26 +86,69 @@ footer{
     background-color: rgba(0,0,0, 0.9); 
     overflow-x: hidden; 
     transition: 0.5s; 
+    
+}
+#cikktartalom h2{
+    border-bottom: 3px solid rgb(192, 192, 192);
+    font-size: 300%;
+    margin: 0;
+    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(231, 231, 231);
+    width: 100%;
+
+}
+
+#cikktartalom h3{
+    width: max-content;
+    border-bottom: 2px solid gainsboro;
+    font-size: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#cikktartalom p{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: x-large;
+    text-align: justify;
+    
+
+}
+#cikktartalom img{
+    width: 100%;
+    vertical-align: bottom;
 }
 .overlay a:hover, .overlay a:focus {
     color: rgb(255, 255, 255);
   }
-.overlay .off {
-    position: absolute;
+ .off {
+    position: fixed;
     top: 20px;
-    right: 45px;
+    right:70px;
     font-size: 60px;
+    color: rgb(158, 158, 158);
   }
 #cikk_Flex{
     display: flex;
     justify-content: center;
     width: 100%;
+
 }
 #cikktartalom{
-    border-radius: 10px;
-    margin-top: 50px;
-    background-color: aliceblue;
-    width: 80%;
-    justify-content: center;
+    color: rgb(37, 37, 37);
 
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(241, 253, 252);
+    width: 80%;
+}
+.fels{
+    font-size: x-large;
+    color: rgb(98, 98, 98);
+}
+.hiv{
+    text-decoration: none;
+    padding: 5px;
+    color: rgb(0, 136, 255);
 }
