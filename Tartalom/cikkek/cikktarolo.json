@@ -1,7 +1,9 @@
 {
     "cikkek":[{
+        "kep":"../Tartalom/cikkek/kepek/kep1.jpg",
         "focim":"Az energiánk 20%-a szélerőművekből fog érkezni.",
-        "kep":"../Tartalom/cikkek/kepek/empty.png",
+        "kapl":"../Tartalom/cikkek/kepek/kep1.jpg",
+
         "be1":"A szélenergia ipar legalább olyan gyorsan növekszik, mint a napelem ipar, ha nem gyorsabban.  Becslések szerint2030-ra globális szinten az energia 20%-a szélerőművekből fog származni. 20%-a szélerőművekből fog érkezni",
         "be2":"A technológia ugyan drága, és sokkal nagyobb mértékű beruházásokra van szükség, mint a napelemes befektetéseknél, de a szélenergia hosszútávú előnyei sokkal kecsegtetőbbek. Ha az átállás sikeres lenne  az azt jelentené, hogy évente 3,6 milliárd tonnával kevesebb széndioxidot engednénk a levegőbe.",
         "be3":"Kína az egyik legkiemelkedőbb vezető ország, ha szélenergiáról van szó. Tavaly 17%-ra növelték a szélenergiából befolyó energia mennyiségét az országban, és jelenleg is további bővítéseket terveznek, még idén. Ezen kívül már született megegyezés abban, hogy 1.000 szénbányát fognak bezárni országszerte, ezzel is elősegítve a megújuló energiaforrásokba történő befektetéseket.",
@@ -9,8 +11,10 @@
         "hiv":"https://www.tisztajovo.hu/megujulo-energiaforrasok/2016/10/19/az-energiank-20-a-szeleromuvekbol-fog-erkezni"
     },
     {
+        "kep":"../Tartalom/cikkek/kepek/kep2.jpg",
         "focim":"Óceánok: mi a szerepük az életben, hogyan óvjuk őket?",
-        "kep":"../Tartalom/cikkek/kepek/empty.png",
+        "kapl":"../Tartalom/cikkek/kepek/kep2.jpg",
+        
         "be1":"Földünk hidroszférájának közel 71 százalékát óceánok borítják. Hatalmas területet fednek le, mégsem kapnak elég figyelmet. Célunk ezen változtatni! Cikkünk szélesíteni kívánja ismereteidet velük kapcsolatban, beutatja, hogy te mit tehetsz védelmük érdekében.",
         "cim1":"Milyen szerepet töltenek be az óceánok a Föld életében?",
         "be2":"Az óceánok nélkül a bolygó élhetetlen lenne, rengeteg lehetőséget kínálnak a növekedés, a foglalkoztatás és az innováció előmozdítására. ",
@@ -33,64 +37,19 @@
         "hiv":"https://xforest.hu/oceanok/"
     },
     {
-        "focim":"Tesztcimf",
-        "kep":"../Tartalom/cikkek/kepek/empty.png",
-        "be1":"beteszt1",
-        "cim":"Tesztcim",
-        "be2":"beteszt2",
-        "be3":"beteszt3",
-        "be4":"beteszt5",
-        "hiv":"*link*"
+
     },
     {
-        "focim":"Tesztcimf",
-        "kep":"../Tartalom/cikkek/kepek/empty.png",
-        "be1":"beteszasdasdasda sdsdas dasdasdasdasdasda sdasdasdasdasdasdasdasdasda asdast1",
-        "cim":"Tesztcim",
-        "be2":"beteszt2",
-        "be3":"beteszt3",
-        "be4":"beteszt5",
-        "hiv":"*link*"
+        
     },
     {
-        "focim":"Tesztcimf",
-        "kep":"../Tartalom/cikkek/kepek/empty.png",
-        "be1":"  dasdsd",
-        "cim":"Tesztcim",
-        "be2":"beteszt2",
-        "be3":"beteszt3",
-        "be4":"beteszt5",
-        "hiv":"*link*"
+        
     },
     {
-        "focim":"Tesztcimf",
-        "kep":"../Tartalom/cikkek/kepek/empty.png",
-        "be1":"beteszt1",
-        "cim":"Tesztcim",
-        "be2":"beteszt2",
-        "be3":"beteszt3",
-        "be4":"beteszt5",
-        "hiv":"*link*"
+        
     },
     {
-        "focim":"Tesztcimf",
-        "kep":"../Tartalom/cikkek/kepek/empty.png",
-        "be1":"beteszt1",
-        "cim":"Tesztcim",
-        "be2":"beteszt2",
-        "be3":"beteszt3",
-        "be4":"beteszt5",
-        "hiv":"*link*"
-    },
-    {
-        "focim":"Tesztcimf",
-        "kep":"../Tartalom/cikkek/kepek/empty.png",
-        "be1":"beteszt1",
-        "cim":"Tesztcim",
-        "be2":"beteszt2",
-        "be3":"beteszt3",
-        "be4":"beteszt5",
-        "hiv":"*link*"
+        
     }
 ]
 }
