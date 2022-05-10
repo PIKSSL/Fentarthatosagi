@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 *{
   margin: 0;
   padding: 0;
@@ -63,6 +64,19 @@ header{
   background-position: center center;
   position: relative;
 }
+h1{
+  font-size: 50px;
+  justify-content: center;
+  text-align: center;
+  padding: 45px; 
+  border: 3px groove black;
+  border-radius: 20px;
+  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8));
+  width: 90%;
+  margin-left: 60px;
+  margin-bottom: 100px;
+  font-family: 'Permanent Marker', cursive;
+}
 .container1 {
   height: 60px;
   background-color: black;
@@ -75,6 +89,7 @@ header{
   -ms-flex-align: center;
   align-items: center;
   overflow: hidden;
+  font-family: 'Permanent Marker', cursive;
 }
 
 .container1 .logo {
@@ -126,7 +141,7 @@ header{
 .container1 .navbar ul li a {
   text-decoration: none;
   color: #fff;
-  font-size: 16px;
+  font-size: 18px;
   text-transform: uppercase;
   display: block;
   height: 60px;
@@ -311,6 +326,7 @@ header{
   font-size: 1.5rem;
   font-weight: bold;
   padding: 10px 20px;
+  font-family: 'Permanent Marker', cursive;
 }
 
 .controls {
