@@ -149,6 +149,7 @@ h1{
   line-height: 60px;
   cursor: pointer;
   padding: 0 10px;
+  font-family: 'Permanent Marker', cursive;
 }
 
 .container1 .navbar ul li a:hover, .dropdown:hover .dropbtn{
@@ -222,6 +223,7 @@ h1{
     text-decoration: none;
     display: block;
     text-align: left;
+    font-family: 'Permanent Marker', cursive;
   }
   
   .dropdown-content a:hover {
