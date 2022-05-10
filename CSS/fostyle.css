@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+*{
+    box-sizing: border-box;
+    
+
+}
 p{
     color: rgb(203, 248, 135);
 }
@@ -8,10 +12,4 @@ body{
 article{
     background-color: rgb(255, 255, 255);
     height: 300px;
-=======
-@charset "utf-8";
-*{
-    box-sizing: border-box;
-    
->>>>>>> 2d6eb718ade37867ab9e2f372cee7aeb4c789b38
 }
