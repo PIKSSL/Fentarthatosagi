@@ -4,7 +4,7 @@ main, nav, article, footer{
 }
 body{
     margin: 0%;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(240, 240, 240);
     font-family: 'Lato', sans-serif;
 }
 main{
@@ -34,16 +34,20 @@ nav{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    
     border: 2px solid rgb(0, 255, 102);
     justify-content:space-around;
     
 }
 .cikk{
+    align-self: flex-start;
     margin-bottom: 3px;
-    flex: 0 1 33%;
-    background-color: rgb(215, 214, 214);
+    flex: 0 1 32%;
+    background-color: rgb(255, 255, 255);
     overflow-y: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19),0 -6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 15px;
+    border-radius: 1px;
+    margin-top: 15px;
 }
 
 .cikk img{
@@ -51,12 +55,11 @@ nav{
 }
 .cikk h3{
     margin:5px;
-
     border-bottom: 2px solid rgb(183, 183, 183);
 }
 .cikk p{
     margin: 5px;
-    text-align: justify;
+
 }
 .kiskep{
     width: 100%;
@@ -90,7 +93,8 @@ footer{
 }
 #cikktartalom h2{
     border-bottom: 3px solid rgb(192, 192, 192);
-    font-size: 300%;
+    color: rgb(249, 86, 86);
+    font-size: 250%;
     margin: 0;
     padding: 10px;
     padding-top: 20px;
@@ -103,6 +107,8 @@ footer{
 #cikktartalom h3{
     width: max-content;
     border-bottom: 2px solid gainsboro;
+    background-color: rgb(255, 233, 233);
+    color: rgb(65, 65, 65);
     font-size: 30px;
     padding-right: 10px;
     padding-left: 10px;
@@ -111,9 +117,6 @@ footer{
     padding-right: 10px;
     padding-left: 10px;
     font-size: x-large;
-    text-align: justify;
-    
-
 }
 #cikktartalom img{
     width: 100%;
@@ -137,7 +140,7 @@ footer{
 }
 #cikktartalom{
     color: rgb(37, 37, 37);
-
+    border-radius: 1px;
     margin-top: 50px;
     margin-bottom: 50px;
     background-color: rgb(241, 253, 252);
@@ -146,6 +149,7 @@ footer{
 .fels{
     font-size: x-large;
     color: rgb(98, 98, 98);
+
 }
 .hiv{
     text-decoration: none;
