@@ -114,6 +114,7 @@ footer{
     
 }
 #cikktartalom p{
+    color: rgb(43, 43, 43);
     padding-right: 10px;
     padding-left: 10px;
     font-size: 12pt;
@@ -137,8 +138,6 @@ footer{
     display: flex;
     justify-content: center;
     width: 100%;
-
-
 }
 #cikktartalom{
 

@@ -1,6 +1,6 @@
 {
     "cikkek":[{
-        "kep":"../Tartalom/cikkek/kepek/kep1.jpg",
+        "kfp":"../Tartalom/cikkek/kepek/kep1.jpg",
         "focim":"Az energiánk 20%-a szélerőművekből fog érkezni.",
         "kapl":"../Tartalom/cikkek/kepek/kep1.jpg",
 
@@ -11,7 +11,7 @@
         "hiv":"https://www.tisztajovo.hu/megujulo-energiaforrasok/2016/10/19/az-energiank-20-a-szeleromuvekbol-fog-erkezni"
     },
     {
-        "kep":"../Tartalom/cikkek/kepek/kep2.jpg",
+        "kfp":"../Tartalom/cikkek/kepek/kep2.jpg",
         "focim":"Óceánok: mi a szerepük az életben, hogyan óvjuk őket?",
         "kapl":"../Tartalom/cikkek/kepek/kep2.jpg",
         
@@ -37,10 +37,27 @@
         "hiv":"https://xforest.hu/oceanok/"
     },
     {
-
+        "focim":"Bevezetés",
+        "be1":"A Fenntarthatósági Témahét 2022. április 25. és 29. között kerül megrendezésre, amelyet Emberi Erőforrások Minisztériuma hirdet. Minden hazai és határon túli nevelési-oktatási intézmény  csatlakozhat idén a mi iskolánk is újra belevágott.",
+        "cim1":"Mit tervezünk erre a hétre?",
+        "be2":"Könyvcsere; Ruhacsere; Használt póló megújító workshop; Ovisoknak kézműves foglalkozás és versenyek; Divatbemutató és Verseny az osztályok között, aminek a címe tedd zöldebbé a földet.",
+        "be3":"Ha többet szeretnél megtudni itt a program hivatalos weboldala https://www.fenntarthatosagi.temahet.hu/ de persze a mi weboldalunkon is nézz körbe",
+        "cim2":"Célja?",
+        "be4":"A fenntarthatósági témahét célja, hogy megvédjük Földünket az utókor számára az esetleges Globális felmelegedéstől; vízhiánytól; klíma változástól és csökkenő energiakészlet hiányától. Fontos mindenkiben elmélyíteni ezeket a szemléleteket, hiszen mindenki számára fontos a Földünk, és ha nem vigyázunk, rá hamar tönkre megy.",
+        "be5":"Egy előadó idézete: „A Föld nem a miénk, hanem unokáinktól, kaptuk kölcsön.”",
+        "be6":"A SZÁMALK - Szalézi Technikum és Szakgimnázium az idei Fenntarthatósági héten is részt vesz már 2. alkalommal. Az idei évben több osztály is részt vesz az előkészületekben: Divat-, jelmez- és díszlettervező; Szoftverfejlesztő és tesztelő; Pedagógiai munkatárs; Dekoratőr; Grafikus; Fotográfus és Közművelődési munkatárs diákjai."
     },
     {
-        
+        "kapl":"../Tartalom/cikkek/kepek/hulladek_mentes_vasarlas/kep1.jpg",
+        "focim":"Hulladék mentes vásárlás",
+        "cim1":"Csomagolás nélküli vásárlás Magyarországon",
+        "be1":"Mára több mint 50 olyan bolt található Magyarországon, amelyben csomagolás nélkül tudunk vásárolni.  Ezekben a boltokba a vásárló saját üvegedényekkel, tárolóeszközökkel érkezik, és azokban tudja haza vinni a megvásárlandó termékeket. Ez nagyban elősegíti a hulladék termelés visszafogását.",
+        "kep1":"../Tartalom/cikkek/kepek/hulladek_mentes_vasarlas/kep1.jpg",
+        "cim2":"Magyar példakép",
+        "be2":"A magyar hulladékmentes mozgalom egyik kiemelkedő alakja Tóth Andi, aki mások inspirálása érdekében létrehozta a Háztartásom hulladék nélkül nevű blogját. A környezetbarát üzletek a fővárosba koncentrálódtak, de emellett az ország számos nagyvárosában és szinte az összes régiójában találni néhány boltot. Nyílt csomagolásmentes bolt Orosházán, Hajdúnánáson és Berettyóújfaluban is.",
+        "cim3":"Mit is találhatunk egy ilyen boltban?",
+        "be3":"Ezen üzletek általában bio, vegyszerektől mentes, kisüzemben gyártott hazai élelmiszereket árulnak, így számolni kell azzal, hogy a termékek valamivel drágábbak lesznek a megszokottnál. Az élelmiszer mellett számos boltban találkozhatunk kimérős tisztítószerekkel is, illetve általában a hulladékmentes életmód kellékeinek széles választékát is megtaláljuk, mint például vizes palack, textil szalvéta vagy fém szívószál.",
+        "kep":"../Tartalom/cikkek/kepek/hulladek_mentes_vasarlas/kep2.jpg"
     },
     {
         
