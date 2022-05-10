@@ -5,7 +5,7 @@
       "answers": [
         { "text": "Magyaroszágon nincs, de külföldön van", "correct": false },
         { "text": "Magyaroszágon és külföldön sincs", "correct": false },
-        { "text": "Igen, van Magyarországon'", "correct": true }
+        { "text": "Igen, van Magyarországon", "correct": true }
       ]
     },
     {

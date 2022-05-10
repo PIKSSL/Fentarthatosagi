@@ -1,0 +1,92 @@
+{
+    "questions" : [
+    {
+      "question": "Hogyan dobjuk a szelektívbe a műanyagot?",
+      "answers": [
+        { "text": "Tisztán, kimosva", "correct": true },
+        { "text": "Koszosan", "correct": false },
+        { "text": "Mindegy", "correct": false }
+      ]
+    },
+    {
+      "question": "A felsorolás között mi a legkörnyezetbarátabb közlekedés?",
+      "answers": [
+        { "text": "Vonat", "correct": false },
+        { "text": "Autó", "correct": false },
+        { "text": "Séta", "correct": true }
+      ]
+    },
+    {
+      "question": "Ha szemetet látsz eldobva...",
+      "answers": [
+        { "text": "Belerúgok", "correct": false },
+        { "text": "Ott hagyom", "correct": false },
+        { "text": "Felveszem és kidobom a legközelebb kukába", "correct": true }
+      ]
+    },
+    {
+      "question": "Mi kerülhet a papír szelektívbe?",
+      "answers": [
+        { "text": "Olajjal/zsíradékkal szennyezett papír", "correct": false },
+        { "text": "Hőpapír (nyugta, blokk)", "correct": false },
+        { "text": "Újságok, tejes -gyümölcsleves papírdobozok, könyvek", "correct": true }
+      ]
+    },
+    {
+      "question": "Mi a komposzt?",
+      "answers": [
+        { "text": "Szerves és szervetlen anyagok lebomlásának a végterméke", "correct": false },
+        { "text": "Szerves anyagok lebomlásának a végterméke", "correct": true },
+        { "text": "Szervetlen anyagok lebomlásának a végterméke", "correct": false }
+      ]
+    },
+    {
+      "question": "Miket komposztálhatunk?",
+      "answers": [
+        { "text": "Fém, műanyag, vegyszeres dolgok", "correct": false },
+        { "text": "Zöldség - gyümölcs maradék, tojáshéj", "correct": true },
+        { "text": "Nagy ágak, fatörzsek, diófalevér", "correct": false }
+      ]
+    },
+    {
+      "question": "A könyveket",
+      "answers": [
+        { "text": "Kiveszem a könyvtárból/elcserélem", "correct": true },
+        { "text": "Megveszem drágán a boltban", "correct": false },
+        { "text": "Elégetem,ha már nem kell", "correct": false }
+      ]
+    },
+    {
+      "question": "Mi az ökologiai lábnyom?",
+      "answers": [
+        { "text": "Az amikor sárba lépünk és ott marad a cipő talpának a lenyomata.", "correct": false },
+        { "text": "Az amikor valaki lápnyomokat hagy az úton", "correct": false },
+        { "text": "Egy mutató, hogy mekkora mértékben éljük föl természetes erőforrásokat.", "correct": true }
+      ]
+    },
+    {
+      "question": "Hova tegyük az üveget?",
+      "answers": [
+        { "text": "A fehérüveg-hulladékok közé csak az olyan elöblített üvegeket dobjuk, amelyek átlátszók. Ilyen például a dunsztosüveg, a tejesüveg, bébiételes üveg stb.", "correct": true },
+        { "text": "Csak szimplán kidobjuk", "correct": false },
+        { "text": "A színes üveghulladékok közé dobjuk a kupak nélküli boros-, pezsgős, sörös- és röviditalos színesüvegeket, természetesen átöblítés után, tisztán.", "correct": true }
+      ]
+    },
+    {
+      "question": "Mi a legjobb alternatíva a nejlon zacskókra?",
+      "answers": [
+        { "text": "Vászon szatyrok", "correct": true },
+        { "text": "Papír zacskók", "correct": false },
+        { "text": "Erősebb műanyagból készült szatyrok", "correct": false }
+      ]
+    },
+    {
+      "question": "Az okostelefont...",
+      "answers": [
+        { "text": "Évente cserélem", "correct": false },
+        { "text": "Csak 2-3 évente cserélem", "correct": true },
+        { "text": "Amikor van egy jobb akkor azt rögtön megveszem", "correct": false }
+      ]
+    }
+  ]
+}
