@@ -4,11 +4,48 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+<<<<<<< HEAD
+  <link href="/Fenntarthatóság/Fentarthatosagi/CSS/style.css" rel="stylesheet">
+  <script defer src="/Fenntarthatóság/Fentarthatosagi/Jscript/quiz.js"></script>
+=======
   <link href="../CSS/style.css" rel="stylesheet">
   <script defer src="../Jscript/quiz.js"></script>
+>>>>>>> da4cb06104f9fc16979a0814ad3b6ce235482b23
   <title>Quiz</title>
 </head>
 <body>
+  <header>
+    <div class="container1">
+        <div class="logo">
+            <a href="https://www.szamalk-szalezi.hu/" target="_blank"><img src="/Fenntarthatóság/Fentarthatosagi/Tartalom/quiz/logo.png" alt="logo"></a>
+        </div>
+    <div class="navbar">
+    
+    <div class="icon-bar" onclick="Show()">
+        <i></i>
+        <i></i>
+        <i></i>
+    </div>
+    
+    <ul id="nav-lists">
+        <li class="close"><span onclick="Hide()">×</span></li>
+        <li><a href="index.html">Kezdőlap</a></li>
+        <li><a href="#">Cikkek</a></li>
+        <li><a href="#">Galéria</a></li>
+        <div class="dropdown">
+          <li><a href="#" class="dropbtn">Quiz</li>
+          <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+              <a href="felnott.html">Felnőtt</a>
+              <a href="kozepiskolas.html">Középiskolás</a>
+              <a href="altalanos.html">Általános iskolás</a>
+          </div>
+        </div>
+    </ul>
+    </div>
+    </div>
+    </header>
   <div class="container">
     <div id="question-container" class="hide">
       <div id="question">Question</div>
@@ -23,6 +60,5 @@
       <button id="start-btn" class="start-btn btn">Quiz indítása</button>
       <button id="next-btn" class="next-btn btn hide">Következő</button>
     </div>
-  </div>
 </body>
 </html>

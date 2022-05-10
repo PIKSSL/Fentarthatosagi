@@ -6,15 +6,15 @@ const answerButtonsElement = document.getElementById('answer-buttons')
 const questions = []
 let shuffledQuestions, currentQuestionIndex
 
-startButton.addEventListener('click', startGame)
+startButton.addEventListener('click', function(){startGame("../Jscript/felnottQuiz.json")})
 nextButton.addEventListener('click', () => {
   currentQuestionIndex++
   setNextQuestion()
 })
 
-function startGame() {
+function startGame(fajlnev) {
   startButton.classList.add('hide')
-  fetch("quiz.json")
+  fetch(fajlnev)
     .then((response) => response.json())
     .then((data) => {
       console.log(data);
@@ -89,4 +89,11 @@ function clearStatusClass(element) {
   element.classList.remove('correct')
   element.classList.remove('wrong')
 }
+var navList = document.getElementById("nav-lists");
+function Show() {
+navList.classList.add("_Menus-show");
+}
 
+function Hide(){
+navList.classList.remove("_Menus-show");
+}
