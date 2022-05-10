@@ -37,6 +37,7 @@ function feltolt(){
 function overlayOn(event){
     let item = event.currentTarget;
     let tartalom ="";
+    document.querySelector(".off").addEventListener("click",overlayOff);
     document.querySelector("body").style.overflow="hidden";
     document.getElementById("nagycikk").style.display="block";
         for (const key in tomb[item.id]) {

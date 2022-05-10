@@ -11,9 +11,9 @@
         "hiv":"https://www.tisztajovo.hu/megujulo-energiaforrasok/2016/10/19/az-energiank-20-a-szeleromuvekbol-fog-erkezni"
     },
     {
-        "kep":"../Tartalom/cikkek/kepek/empty.png",
+        "kep":"../Tartalom/cikkek/kepek/kep2.jpg",
         "focim":"Óceánok: mi a szerepük az életben, hogyan óvjuk őket?",
-        "kapl":"../Tartalom/cikkek/kepek/empty.png",
+        "kapl":"../Tartalom/cikkek/kepek/kep2.jpg",
         
         "be1":"Földünk hidroszférájának közel 71 százalékát óceánok borítják. Hatalmas területet fednek le, mégsem kapnak elég figyelmet. Célunk ezen változtatni! Cikkünk szélesíteni kívánja ismereteidet velük kapcsolatban, beutatja, hogy te mit tehetsz védelmük érdekében.",
         "cim1":"Milyen szerepet töltenek be az óceánok a Föld életében?",
@@ -35,72 +35,7 @@
         "be7":"Ha tengerhez, vagy óceánhoz valamilyen formában kapcsolódó cég vezetője vagy",
         "be8":"Fordíts a nemzetközi jog érvényesítése és végrehajtása által fokozott figyelmet az óceánok és erőforrásaik megőrzésére, és fenntartható használatára az ENSZ Tengerjogi Egyezménye előírásainak megfelelően – ahogy arra „Az áhított jövő” című ENSZ-nyilatkozat 158. bekezdése emlékeztet.",
         "hiv":"https://xforest.hu/oceanok/"
-    },
-    {
-        "focim":"Tesztcimf",
-        "kapl":"../Tartalom/cikkek/kepek/kep1.jpg",
-        "kep":"../Tartalom/cikkek/kepek/kep1.jpg",
-        "be1":"beteszt1",
-        "cim":"Tesztcim",
-        "be2":"beteszt2",
-        "be3":"beteszt3",
-        "be4":"beteszt5",
-        "hiv":"*link*"
-    },
-    {
-        "focim":"Tesztcimf",
-        "kapl":"../Tartalom/cikkek/kepek/kep1.jpg",
-        "kep":"../Tartalom/cikkek/kepek/kep1.jpg",
-        "be1":"beteszasdasdasda sdsdas dasdasdasdasdasda sdasdasdasdasdasdasdasdasda asdast1",
-        "cim":"Tesztcim",
-        "be2":"beteszt2",
-        "be3":"beteszt3",
-        "be4":"beteszt5",
-        "hiv":"*link*"
-    },
-    {
-        "focim":"Tesztcimf",
-        "kapl":"../Tartalom/cikkek/kepek/kep1.jpg",
-        "kep":"../Tartalom/cikkek/kepek/kep1.jpg",
-        "be1":"  dasdsd",
-        "cim":"Tesztcim",
-        "be2":"beteszt2",
-        "be3":"beteszt3",
-        "be4":"beteszt5",
-        "hiv":"*link*"
-    },
-    {
-        "focim":"Tesztcimf",
-        "kapl":"../Tartalom/cikkek/kepek/kep1.jpg",
-        "kep":"../Tartalom/cikkek/kepek/kep1.jpg",
-        "be1":"beteszt1",
-        "cim":"Tesztcim",
-        "be2":"beteszt2",
-        "be3":"beteszt3",
-        "be4":"beteszt5",
-        "hiv":"*link*"
-    },
-    {
-        "focim":"Tesztcimf",
-        "kapl":"../Tartalom/cikkek/kepek/kep1.jpg",
-        "kep":"../Tartalom/cikkek/kepek/kep1.jpg",
-        "be1":"beteszt1",
-        "cim":"Tesztcim",
-        "be2":"beteszt2",
-        "be3":"beteszt3",
-        "be4":"beteszt5",
-        "hiv":"*link*"
-    },
-    {
-        "focim":"Tesztcimf",
-        "kapl":"../Tartalom/cikkek/kepek/kep1.jpg",
-        "kep":"../Tartalom/cikkek/kepek/kep1.jpg",
-        "be1":"beteszt1",
-        "cim":"Tesztcim",
-        "be2":"beteszt2",
-        "be3":"beteszt3",
-        "be4":"beteszt5",
-        "hiv":"*link*"
     }
+
 ]
 }
