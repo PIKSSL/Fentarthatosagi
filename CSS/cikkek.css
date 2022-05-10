@@ -1,0 +1,158 @@
+
+main, nav, article, footer{
+    border: 2px solid rgb(247, 0, 0);
+}
+body{
+    margin: 0%;
+    background-color: rgb(240, 240, 240);
+    font-family: 'Lato', sans-serif;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+#margin{
+    display: flex;
+    border: 2px solid chocolate;
+}
+nav{
+    background-color: rgb(66, 72, 72);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: row-reverse;
+    height: 100px;
+    margin-bottom: 5px;
+}
+.menu{
+    flex: 0 1 10%;
+}
+
+#ctarolo{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: 2px solid rgb(0, 255, 102);
+    justify-content:space-around;
+    
+}
+.cikk{
+    align-self: flex-start;
+    margin-bottom: 3px;
+    flex: 0 1 32%;
+    background-color: rgb(255, 255, 255);
+    overflow-y: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19),0 -6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 15px;
+    border-radius: 1px;
+    margin-top: 15px;
+}
+
+.cikk img{
+    width: 100%;
+}
+.cikk h3{
+    margin:5px;
+    border-bottom: 2px solid rgb(183, 183, 183);
+}
+.cikk p{
+    margin: 5px;
+
+}
+.kiskep{
+    width: 100%;
+  
+}
+.szoveg{
+    overflow: hidden;
+
+}
+footer{
+    margin-top: 5px;
+}
+#nagycikk{
+    display: none;
+    width: 100%;
+    
+}
+
+.overlay{
+    height: 100%;
+    width: 0;   
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0, 0.9); 
+    overflow-x: hidden; 
+    transition: 0.5s; 
+    
+}
+#cikktartalom h2{
+    border-bottom: 3px solid rgb(192, 192, 192);
+    color: rgb(249, 86, 86);
+    font-size: 250%;
+    margin: 0;
+    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(231, 231, 231);
+    width: 100%;
+
+}
+
+#cikktartalom h3{
+    width: max-content;
+    border-bottom: 2px solid gainsboro;
+    background-color: rgb(255, 233, 233);
+    color: rgb(65, 65, 65);
+    font-size: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#cikktartalom p{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: x-large;
+}
+#cikktartalom img{
+    width: 100%;
+    vertical-align: bottom;
+}
+.overlay a:hover, .overlay a:focus {
+    color: rgb(255, 255, 255);
+  }
+ .off {
+    position: fixed;
+    top: 20px;
+    right:70px;
+    font-size: 60px;
+    color: rgb(158, 158, 158);
+  }
+#cikk_Flex{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+#cikktartalom{
+    color: rgb(37, 37, 37);
+    border-radius: 1px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(241, 253, 252);
+    width: 80%;
+}
+.fels{
+    font-size: x-large;
+    color: rgb(98, 98, 98);
+
+}
+.hiv{
+    text-decoration: none;
+    padding: 5px;
+    color: rgb(0, 136, 255);
+}
