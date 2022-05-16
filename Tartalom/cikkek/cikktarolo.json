@@ -14,7 +14,6 @@
         "kfp":"../Tartalom/cikkek/kepek/kep2.jpg",
         "focim":"Óceánok: mi a szerepük az életben, hogyan óvjuk őket?",
         "kapl":"../Tartalom/cikkek/kepek/kep2.jpg",
-        
         "be1":"Földünk hidroszférájának közel 71 százalékát óceánok borítják. Hatalmas területet fednek le, mégsem kapnak elég figyelmet. Célunk ezen változtatni! Cikkünk szélesíteni kívánja ismereteidet velük kapcsolatban, beutatja, hogy te mit tehetsz védelmük érdekében.",
         "cim1":"Milyen szerepet töltenek be az óceánok a Föld életében?",
         "be2":"Az óceánok nélkül a bolygó élhetetlen lenne, rengeteg lehetőséget kínálnak a növekedés, a foglalkoztatás és az innováció előmozdítására. ",
@@ -37,6 +36,7 @@
         "hiv":"https://xforest.hu/oceanok/"
     },
     {
+        "kapl":"../Tartalom/cikkek/kepek/kep.jpg",
         "focim":"Bevezetés",
         "be1":"A Fenntarthatósági Témahét 2022. április 25. és 29. között kerül megrendezésre, amelyet Emberi Erőforrások Minisztériuma hirdet. Minden hazai és határon túli nevelési-oktatási intézmény  csatlakozhat idén a mi iskolánk is újra belevágott.",
         "cim1":"Mit tervezünk erre a hétre?",
@@ -49,7 +49,7 @@
     },
     {
         "kapl":"../Tartalom/cikkek/kepek/hulladek_mentes_vasarlas/kep1.jpg",
-        "focim":"Hulladék mentes vásárlás",
+        "focim":"Hulladékmentes vásárlás",
         "cim1":"Csomagolás nélküli vásárlás Magyarországon",
         "be1":"Mára több mint 50 olyan bolt található Magyarországon, amelyben csomagolás nélkül tudunk vásárolni.  Ezekben a boltokba a vásárló saját üvegedényekkel, tárolóeszközökkel érkezik, és azokban tudja haza vinni a megvásárlandó termékeket. Ez nagyban elősegíti a hulladék termelés visszafogását.",
         "kep1":"../Tartalom/cikkek/kepek/hulladek_mentes_vasarlas/kep1.jpg",
@@ -57,16 +57,57 @@
         "be2":"A magyar hulladékmentes mozgalom egyik kiemelkedő alakja Tóth Andi, aki mások inspirálása érdekében létrehozta a Háztartásom hulladék nélkül nevű blogját. A környezetbarát üzletek a fővárosba koncentrálódtak, de emellett az ország számos nagyvárosában és szinte az összes régiójában találni néhány boltot. Nyílt csomagolásmentes bolt Orosházán, Hajdúnánáson és Berettyóújfaluban is.",
         "cim3":"Mit is találhatunk egy ilyen boltban?",
         "be3":"Ezen üzletek általában bio, vegyszerektől mentes, kisüzemben gyártott hazai élelmiszereket árulnak, így számolni kell azzal, hogy a termékek valamivel drágábbak lesznek a megszokottnál. Az élelmiszer mellett számos boltban találkozhatunk kimérős tisztítószerekkel is, illetve általában a hulladékmentes életmód kellékeinek széles választékát is megtaláljuk, mint például vizes palack, textil szalvéta vagy fém szívószál.",
-        "kep":"../Tartalom/cikkek/kepek/hulladek_mentes_vasarlas/kep2.jpg"
+        "kep2":"../Tartalom/cikkek/kepek/hulladek_mentes_vasarlas/kep2.jpg"
     },
     {
-        
+        "kapl":"../Tartalom/cikkek/kepek/zold_marketing/kep1.jpg",
+        "focim":"A ZÖLD MARKETING",
+        "be1":"A marketing már a mindennapjaink része, mindenhol találkozhatunk vele és mindig a szemünk előtt van, még ha nem is látjuk, mint egy rejtett reklám. Mindennapunk része, tehát szinte természetessé vált, nem lenne izgalmas és hasznos ezt a természetes dolgot az életünkben zöldebbé tenni? ",
+        "kep1":"../Tartalom/cikkek/kepek/zold_marketing/kep3.jpg",
+        "be":"Ez a fejlesztés Magyarországon nem elterjedt, viszont a nyugati országok már előszeretettel használják, hiszen a fenntartható út választásával sokat profitálnak és a vállalkozásuk megítélése is javul. Nagyon fontos, hogy a zöld marketing mögött mindig konkrét, valós környezeti előny álljon. Ilyen lehet egy technológiaváltás, amely kevesebb mennyiségű, vagy könnyebben kezelhető melléktermékeket, hulladékot termel a végtermék mellett. Ilyen lehet egy hathatós kibocsátáscsökkentés, energiahatékonysági beruházások, vagy például megújuló energia felhasználásához napelemek, illetve szélturbinák telepítése. Ha elvégezzük a tanulmányainkat és indítanánk egy vállalkozást biztos van konkrét elképzelésünk, de legalább valami konkrét ötletünk, mai még kiegészítésre vár. Sok mindenre kell gondolnunk többek között a marketingünkre, de milyen is egy jó marketing? Hát nem egyértelmű? Az modern marketing, ami új és éppen az emberek érdeklődésének középpontjában áll. Gondoltad volna, hogy a vásárlók 49%-a hajlandó többet fizetni egy termékért, ha az környezetbarát? Pontosan ez derül ki a Nielsen globális kutatásából. ",
+        "kep2":"../Tartalom/cikkek/kepek/zold_marketing/kep2.jpg",
+        "be3":"Valóban sikerülhet ez? Igen! Hiszen például az egyik legismertebb kávézónak a Starbucks-nak is sikerült. Kávét ragadva sokan 5% poliuretán műanyagot tartalmazó eldobható kávéscsészéket választanak, ami megnehezíti az újrahasznosítást és a komposztálást. A Starbucks azonban környezetbarát konténert fejleszt ki, amely 2020-ig megduplázza a csészék újrahasznosított tartalmát és újrafelhasználhatóságát. A cég elkötelezett amellett, hogy 99% -ban etikusan beszerzett kávéval dolgozik, ezzel a kávé a világ első fenntartható mezőgazdasági terméke lesz, és 2025-ig 100 millió kávéfát biztosít a gazdálkodóknak. A Starbucks emellett 10 000 energiahatékony, zöld kiskereskedelmi üzletet is szeretne építeni és működtetni 2025-ig.",
+        "kep3":"../Tartalom/cikkek/kepek/zold_marketing/kep1.jpg"
     },
     {
-        
+        "kapl":"",
+        "focim":"PLUSZ érdekességek, alternatívák, lépések a hulladékmentes(ebb) jövőnk felé.",
+        "be1":"Neked is fontos a fenntarthatóság? Rengeteg lehetőséged van tenni a környezetedért.Nagyon fontos ha már egy alternatívát kiváltasz, már azzal is nagyon sokat tehetsz környezeted egészségéért.Hulladékmentes alternatíva az egyszer használatos, eldobható tárgyak helyett:",
+        "fe1":["Műanyag zacskó helyett vászontáskát használj!","Elviteles, automatás kávéhoz saját termosz vagy műanyag poharat használni","PET-palackos italok helyett használj saját kulacsot!","A zöldségesnél, pékségben használatos leheletvékony kisméretű műanyag zacskók helyett használj zsinóros vászonzsákokat! ","Műanyag fogkefék helyett használj, fanyelű természetes sörtéjűt","Eldobható műanyag borotvák helyett használj hagyományos fém biztonsági borotvát cserélhető borotvapengékkel. ","Sminklemosó és vattakorongok helyett, használj mosható arctisztító párnákat!","Műanyag szívószál helyett papír szívószálat használj!","Műanyag evőeszközök helyett használj fa vagy fém evőeszközöket!","Mesterséges illatok helyett frissítsd otthonod levegőjét inkább természetes illóolajokkal. "]
     },
     {
-        
+        "kapl":"",
+        "focim":"Fenntartható Divat-Hol vásároljak?",
+        "be1":"Amikor valaki azt kérdezi tőlem, hol vásároljon fenntartható és etikus divattermékeket Magyarországon, akkor csak azt tudom először mondani: a saját szekrényében. A tudatos vásárlás valahol ott kezdődik, hogy kiderítjük, mi az, amink már van. Elkezdjük megismerni a saját ruhatárunkat, mellette pedig önmagunkat is. Ez nem kétperces folyamat, és nem is biztos, hogy megy egyedül.",
+        "be2":"A lelőhelyek listája nagyon kezdetleges, de ahogy időm engedi, folyamatosan bővítem. A legtöbb tervezővel, alkotóval kapcsolatban is állok, a nagyobb márkák esetén pedig arra biztatlak, ha kérdésed van, írj nekik. Ezek nem fizetett megjelenések, hanem tényleg úgy gondolom, hogy náluk érdemes szétnézni.",
+        "lfe1":["Varrd meg, készítsd el magadnak – workshopok","Másodkézből Budapesten és környékén","Másodkézből Magyarországon – a fővároson kívül","Magyar tervezők, alkotók","Külföldi márkák, tervezők, alkotók","Magyar webshopok külföldi etikus termékekkel"],
+        "link":["#","https://www.holyduck.hu/hol-vasaroljak/ruhak-masodkezbol-legjobb-lelohelyek/","https://www.holyduck.hu/2019/09/03/hasznalt-ruha-szeptember-magyarorszag-turkalo/","https://www.holyduck.hu/fenntarthato-es-etikus-magyar-tervezok-alkotok/","#","https://www.holyduck.hu/hol-vasaroljak/etikus-divat-magyar-webshop/"],
+        "focim1":"4 magyar márka, aki hisz a fenntartható divatban",
+        "cim1":"Magyar divat márkák",
+        "be3":"Egyre több magyar márka helyez hangsúlyt a divatipar fenntarthatóságára, a környezetbarát munkafolyamatokra, a gyártás átláthatóságára és a méltányos munkakörülmények megteremtésének fontosságára. Lelkiismeretes munkájuknak és a közösségi oldalak hatékony kommunikációnak köszönhetően mára a fogyasztói szokások is változó tendenciát mutatnak. Egyre többen keresik az etikus eljárással, újragondolt szabási technikával, kézzel és helyben készült darabokat az üzletekben. ",
+        "cim2":"Budapest-Select Concept Store",
+        "be4":"A Budapest Select Concept Store kínálatában is egyre több olyan márka található, akik a kreatív munkafolyamatok során előtérbe helyezik a fenntarthatóságot, olyan darabokat hozva létre, amelyek egyszerre stílusosak, funkcionálisak, klasszikusak és modernek. A magyar márkák számára a fenntarthatóság nemcsak egy jól csengő zöld marketingfogás, hanem életstílus. Eheti válogatásunkban olyan friss magyar márkák kerülnek bemutatásra, akik szem előtt tartják a környezetvédelmet és hisznek a helyben készült termékek vonzerejében.",
+        "cim3":"ALMA",
+        "be5":"ALMA-A művészcsaládból származó ALMA saját magát festi meg anyagmintáit is. Kollekcióit hulladékmentes gyártástechnológiával valósítja meg. A számos szakmai díjat elnyert ALMA nemrég a milánói divathéten és a BCEFW-n is bemutatta 2021-22-es őszi-téli kollekcióját, amelyben számos egymással jól kombinálható, időtlen darab található. Ilyen például a Kayla felső is, ami 142,000 forintért kapható a Budapest Select Concept Store kínálatában.",
+        "cim4":"Zsigmond Dora Menswear",
+        "be6":"ZSIGMOND DORA menswear-A 2014-ben alapított márka kollekciói a tradíciókból építkeznek, de a 21. század elvárásaihoz igazodva funkcionálisak is egyben. Az újrahasznosításra és környezetvédelemre nagy hangsúlyt fektető tervező kiválóan egyesíti archaikus paraszti kultúra és a magyar folklór elemeit a városi életérzéssel, megalkotva ezzel a modern városi férfi ruhatárát. A márka egyes darabjai a női gardróbba is könnyen beépíthetőek, ilyen például ez a kézzel szőtt, természetes növényi festéssel színezett, egyedi mintázatú ing is, amiért 85,000 forintot kérnek a webshopban.",
+        "cim5":"DAIGE",
+        "be7":"DAIGE-A Tóth Melinda által 2013-ban alapított márka célja, hogy darabjaik több évre szóljanak, minőség és formavilág tekintetében időtállóak és elérhetőek is maradjanak. Irányelvük az autentikusság, a fenntarthatóság, a megfizethetőség és a praktikum. A DAIGE gerle madárral díszített pólója egyszerre lezser és nőies, 11,990 forintért rendelhető meg a Budapest Select Concept Store-ból.",
+        "cim6":"Maison Marquise ",
+        "be8":"Maison Marquise-A klasszikus nőies eleganciát képviselő márka a funkcionális alapdarabok híve, olyan, egymással jól variálható kollekciókban gondolkodik, amelyek könnyen alakíthatóak át a hétköznapi üzleti viseletből elegáns esti megjelenéssé. A hazai gyártásban, helyi varrodában minőségi anyagok felhasználásával készült kollekció egyik alapdarabja az arany betéttel feldobott, oldalt felsliccelt sötétkék maxiruha, amiért 84,000 forintot kérnek a webshopban."
+    },
+    {
+        "kapl":"../Tartalom/cikkek/kepek/teszedd/kep4.jpg",
+        "focim":"Mi az a TeSzedd!?",
+        "kep1":"../Tartalom/cikkek/kepek/teszedd/kep1.jpg",
+        "be1":"A TeSzedd! – Önkéntesen a tiszta Magyarországért akció. Hazánk legnagyobb önkéntes mozgalma. Idén immár kilencedik alkalommal valósul meg. A szemétgyűjtési akció keretében szerte az országban „nagytakarítanak” a TeSzedd! önkéntesei. Azért szervezzük meg ezt a mozgalmat minden évben, hogy közösen megtisztítsuk szűkebb-tágabb környezetünket.",
+        "cim1":"VÍZCSEPP ÖSSZMŰVÉSZETI PÁLYÁZAT 2022.",
+        "kep2":"../Tartalom/cikkek/kepek/teszedd/kep3.jpg",
+        "be2":"A pályázat a 2022. évi Fenntarthatósági Témahét keretében kerül meghirdetésre. A pályázat célja a diákok szemléletformálása vízhez kapcsolódó művészeti alkotások készítésével. Benyújtható pályázatok: rajz, fotó, szépirodalmi mű, zenemű, képregény, infografika, kisfilm.",
+        "be3":"A pályázat célja, hogy tudatosítsa a diákok körében a víz mindennapokban betöltött fontos szerepét. A pályázat a diákok vízhez kötődő viszonyát, művészti alkotásokon keresztül kívánja felmérni. A diákoknak egy vízcsepp helyébe kell beleképzelni magukat és arról szabadon választott művészeti alkotást kell készíteni.",
+        "cim2":"KERT-KÓSTOLGATÓ PÁLYÁZAT",
+        "kep3":"../Tartalom/cikkek/kepek/teszedd/kep4.jpg",
+        "be4":"A pályázat célja, hogy az iskolás csoportok egy saját tervezésű legalább 1 m2 iskolakertet hozzanak létre. Az iskolakertbe olyan növények ültetését várjuk, amelyek az a fenntarthatóságot szolgálják. Az iskolakert létrehozását dokumentálni kell a tervezéstől a kivitelezésig"
     }
 ]
 }

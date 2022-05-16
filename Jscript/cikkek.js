@@ -51,10 +51,20 @@ function overlayOn(event){
             tartalom += "<h3>"+tomb[item.id][key]+"</h3>";
           }
           else if(key.indexOf("kep")>=0){
-            tartalom += "<img class='kismeret' src='"+tomb[item.id][key]+"' alt='"+item.id+"'>";
+            tartalom += "<div class='kistarolo'> <img class='kismeret' src='"+tomb[item.id][key]+"' alt='"+item.id+"'></div> ";
           }          
           else if(key.indexOf("kfp")>=0){
             tartalom += "<img class='nagymeret' src='"+tomb[item.id][key]+"' alt='"+item.id+"'>";
+          }
+          else if(key.indexOf("lfe")>=0){
+            let index = 0;
+            tartalom+="<ul class='fels'>";
+            let tar = tomb[item.id][key];
+            tar.forEach(element => {
+              tartalom+="<li><a class='felso' href='"+tomb[item.id].link[index]+"'>"+element+"</a></li>";
+              index+=1;
+            });
+            tartalom+="</ul>";
           }
           else if(key.indexOf("fe")>=0){
             tartalom+="<ul class='fels'>";
