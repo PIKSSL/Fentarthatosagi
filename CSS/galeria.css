@@ -1,4 +1,4 @@
-main, nav, article, footer{
+main, nav, article,footer{
     border: 2px solid rgb(247, 0, 0);
 }
 body{
@@ -17,9 +17,12 @@ nav{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    flex-flow: row-reverse;
+    flex-flow: row;
     height: 100px;
     padding: 35px;
+}
+nav a{
+    color:red;
 }
 .menu{
     flex: 0 1 20%;
