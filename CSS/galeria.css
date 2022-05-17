@@ -10,18 +10,3 @@ main{
     flex-wrap: wrap;
 
 }
-
-.menu{
-    flex: 0 1 10%;
-}
-li{
-    list-style: none;
-    color: white;
-    
-}
-ul{
-    border: 2px solid rgb(247, 0, 0);
-    padding: 10px;
-    margin: 10px;
-    background-color:rgb(66, 72, 72);
-}
