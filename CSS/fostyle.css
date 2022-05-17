@@ -39,8 +39,67 @@ footer{
 }
 footer p{
     color:rgb(255, 255, 255);
+    
 }
+#home{
+    height: 100%;
+    padding: 35px;
+}
+#home h1{
+    color: rgb(73, 73, 73);
+    font-size: 35pt;
+}
+.tar{
+    font-size: 15pt;
+    padding-left: 50px;
+}
+.tar a{
+    text-decoration: none;
+    color: rgb(255, 50, 50);
+}
+.tar a:hover{
+    text-decoration: underline;
+}
+.tar a:active{
+    color: rgb(163, 41, 41);
+}
+#flexbox{
+    display: flex;
+    justify-content: center;
+}
+#galeriak{
+    display: flex;
+    justify-content: center;
+    gap: 170px;
+    flex-direction: row;
+}
+.zero{
+    text-align: center;
+    flex: 0 1 50%;
+}
+.kreativ{
+    text-align: center;
+    flex: 0 1 50%;
+}
+.zlink{
+    display: flex;
+}
+.klink{
+    display: flex;
+}
+.zlink a{
+    text-decoration: none;
+    background-color: black;
+    flex:0 0 50%;
+}
+.klink a{
+    flex:0 0 50%;
+}
+#home img{
+    vertical-align: bottom;
+    width: 400px;
 
+}
 @media screen and (max-width:600px) {
     nav{
         justify-content: center;
