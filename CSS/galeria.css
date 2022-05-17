@@ -1,6 +1,4 @@
-main, nav, article, footer{
-    border: 2px solid rgb(247, 0, 0);
-}
+
 body{
     margin: 0%;
     background-color: rgb(255, 255, 255);
@@ -12,17 +10,9 @@ main{
     flex-wrap: wrap;
 
 }
-nav{
-    background-color: rgb(66, 72, 72);
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    flex-flow: row-reverse;
-    height: 100px;
-    padding: 35px;
-}
+
 .menu{
-    flex: 0 1 20%;
+    flex: 0 1 10%;
 }
 li{
     list-style: none;
