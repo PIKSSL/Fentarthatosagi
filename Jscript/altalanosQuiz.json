@@ -1,0 +1,92 @@
+{
+    "questions" : [
+    {
+      "question": "A műanyagot milyen színű szelektív kukába gyűjtjük?",
+      "answers": [
+        { "text": "Kék", "correct": false },
+        { "text": "Zöld", "correct": false },
+        { "text": "Citromsárga", "correct": true }
+      ]
+    },
+    {
+      "question": "A papírt milyen színű szelektív kukába gyűjtjük?",
+      "answers": [
+        { "text": "Kék", "correct": true },
+        { "text": "Piros", "correct": false },
+        { "text": "Szürke", "correct": false }
+      ]
+    },
+    {
+      "question": "Az üveget milyen színű szelektív kukába gyűjtjük?",
+      "answers": [
+        { "text": "Lila", "correct": false },
+        { "text": "Zöld", "correct": true },
+        { "text": "Citromsárga", "correct": false }
+      ]
+    },
+    {
+      "question": "A fémet milyen színű szelektív kukába gyűjtjük?",
+      "answers": [
+        { "text": "Szürke", "correct": true },
+        { "text": "Kék", "correct": false },
+        { "text": "Narancssárga", "correct": false }
+      ]
+    },
+    {
+      "question": "Milyen színűek a szelektív kukák?",
+      "answers": [
+        { "text": "Citromsárga, zöld, lila, rózsaszín", "correct": false },
+        { "text": "Piros, kék, zöld, fekete", "correct": false },
+        { "text": "Citromsárga, kék, szürke, zöld", "correct": true }
+      ]
+    },
+    {
+      "question": "A felsorolás között mi a legkörnyezetbarátabb közlekedés?",
+      "answers": [
+        { "text": "Séta", "correct": false },
+        { "text": "Vonat", "correct": false },
+        { "text": "Autó", "correct": true }
+      ]
+    },
+    {
+      "question": "A felsorolás között melyik a takarékosabb?",
+      "answers": [
+        { "text": "Zuhanyzás", "correct": true },
+        { "text": "Habfürdő, pancsolás kádban", "correct": false },
+        { "text": "Fürdőszobából vizipark csinálás", "correct": false }
+      ]
+    },
+    {
+      "question": "Miket komposztálhatunk?",
+      "answers": [
+        { "text": "Fém, műanyag, vegyszeres dolgok", "correct": false },
+        { "text": "Nagy ágak, fatörzsek, diófalevél", "correct": false },
+        { "text": "Zöldség - gyümölcs maradék, tojáshéj", "correct": true }
+      ]
+    },
+    {
+      "question": "Fogmosásnál... ",
+      "answers": [
+        { "text": "Nem zárom el a csapot, hadd folyjon", "correct": false },
+        { "text": "Elzárom a csapot, ha már nem kell víz", "correct": true },
+        { "text": "Ki tekerem tejlesen, mert miért ne", "correct": false }
+      ]
+    },
+    {
+      "question": "Közlekedésnél....",
+      "answers": [
+        { "text": "Autózom", "correct": false },
+        { "text": "Ha lehet biciklizek", "correct": true },
+        { "text": "Tömegközlekedést használok", "correct": false }
+      ]
+    },
+    {
+      "question": "Az okostelefont...",
+      "answers": [
+        { "text": "Csak 2-3 évente cserélem", "correct": true },
+        { "text": "Évente cserélem", "correct": false },
+        { "text": "amikor van egy jobb akkor azt rögtön megveszem", "correct": false }
+      ]
+    }
+  ]
+}
