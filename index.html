@@ -5,16 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Főoldal</title>
-    <script src="/Jscript/cikkek.js"></script>
-    <link rel="stylesheet" href="../CSS/quizStyle.css">
-    <link rel="stylesheet" href="../CSS/fostyle.css">
+    <link rel="stylesheet" href="./CSS/fostyle.css">
+    <script src="./Jscript/fo.js"></script>
 
 </head>
 <body>
     <header>
         <div class="container1">
             <div class="logo">
-                <a href="https://www.szamalk-szalezi.hu/" target="_blank"><img src="/Tartalom/quiz/logo.png" alt="logo"></a>
+                <a href="https://www.szamalk-szalezi.hu/" target="_blank"><img src="./Tartalom/quiz/logo.png" alt="logo"></a>
             </div>
         <div class="navbar">
         
@@ -26,19 +25,20 @@
         
         <ul id="nav-lists">
             <li class="close"><span onclick="Hide()">×</span></li>
-            <li><a href="index.html">Kezdőlap</a></li>
-            <li><a href="cikkek.html">Cikkek</a></li>
-            <li><a href="galeria.html">Galéria</a></li>
+            <li><a href="#">Kezdőlap</a></li>
+            <li><a href="./html/cikkek.html">Cikkek</a></li>
+            <li><a href="./html/galeria.html">Galéria</a></li>
             <div class="dropdown">
               <li><a href="#" class="dropbtn">Quiz</li>
               <i class="fa fa-caret-down"></i>
               </button>
               <div class="dropdown-content">
-                  <a href="felnottQuiz.html">Felnőtt</a>
-                  <a href="kozepiskolasQuiz.html">Középiskolás</a>
-                  <a href="altalanosQuiz.html">Általános iskolás</a>
+                  <a href="./html/felnottQuiz.html">Felnőtt</a>
+                  <a href="./html/kozepiskolasQuiz.html">Középiskolás</a>
+                  <a href="./html/altalanosQuiz.html">Általános iskolás</a>
               </div>
             </div>
+            <li><a  style="display:none" href="./html/esemenyFotok.html">Eseményfotók</a></li>
         </ul>
         </div>
         </div>
@@ -59,14 +59,18 @@
         <div id="galeriak">
             <div class="zero">
                 <h2>ZERO WASTE</h2>
-                <div class="zkep"><img src="../Tartalom/galeria/kepek/kep6.jpg" alt=""></div>
-                <div class="zlink"><a class="le" href="">LEIRÁS</a><a class="li" href="">MEGNÉZEM</a></div>
+                <div class="zkep"><img src="./Tartalom/galeria/kepek/kep6.jpg" alt=""></div>
+                <div class="zlink"><a class="le" href="#leiras">LEIRÁS</a><a class="li" href="">MEGNÉZEM</a></div>
             </div>
             <div class="kreativ">
                 <h2>KREATIV KISÉRLETEK</h2>
-                <div class="kkep"><img src="../Tartalom/galeria/kepek/kep5.jpg" alt=""></div>
-                <div class="klink"><a class="le" href="">LEIRÁS</a><a class="li" href="">MEGNÉZEM</a></div>
+                <div class="kkep"><img src="./Tartalom/galeria/kepek/kep5.jpg" alt=""></div>
+                <div class="klink"><a class="le" href="#leiras">LEIRÁS</a><a class="li" href="">MEGNÉZEM</a></div>
             </div>
+
+        </div>
+        <div id="leiras">
+
         </div>
         </div>
     </article>

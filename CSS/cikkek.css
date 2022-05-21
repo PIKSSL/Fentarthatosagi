@@ -10,12 +10,7 @@ body{
     display: flex;
 
 }
-header{
-    -webkit-background-size: cover;
-    background-size: cover;
-    background-position: center center;
-    position: relative;
-  }
+
 
 #ctarolo{
     display: flex;
