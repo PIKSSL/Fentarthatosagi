@@ -1,21 +1,21 @@
 window.addEventListener("load", function (){
-    fetch("../Tartalom/galeria/ruhak.json")
+    fetch("../Tartalom/galeria/ruhakz.json")
         .then(valasz => valasz.json())
         .then(adat => {
             console.log(adat);
-            console.log(adat.ruhak);
+            console.log(adat.ruhakz);
             megjelenit(adat.ruhak);
             tomb=adat.ruhak;
             })
         .catch((error)=>console.log("hiba",error));
 });
-function megjelenit(ruhak){
+function megjelenit(ruhakz){
     let txt=" ";
-    ruhak.forEach(ruha => {
+    ruhakz.forEach(ruha => {
          txt+="<ul>";
          for (const key in ruha) {
              console.log(key,ruha[key])
-             txt+=`<li>${key}:${ruha[key]}</li>`;
+             txt+=`<li>${key}:${ruha[key]}`+`</li>`;
          }
          txt+="</ul>";
     });
@@ -31,14 +31,5 @@ function CLASS(elem){
 function $(elem){
     return  document.querySelectorAll(elem)
 }
-var aktualiskepIndex = 0;
-function kattintás(event) {
-    aktualiskepIndex= event.target.id
-    kepMegjelenit();
-}
-function kepMegjelenit() {
-    var txt = "<img src='"+tomb[aktualiskepIndex].eleresiut +"' alt='Kép nagyban'/>"
-    ID("nagykep").innerHTML = txt;
-    
-}
+
 

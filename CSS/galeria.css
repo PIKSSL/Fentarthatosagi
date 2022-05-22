@@ -10,3 +10,16 @@ main{
     flex-wrap: wrap;
 
 }
+img{
+    max-width: 45%;
+    max-height: 45%;
+    padding-left: 10%;
+}
+h4{
+    font-size: 40px;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+    font-size: large;
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galéria</title>
+    <script src="/Jscript/galeria.js"></script>
+    <link rel="stylesheet" href="../CSS/fostyle.css">
+    <link rel="stylesheet" href="../CSS/galeria.css">
+    <script src="../Jscript/fo.js"></script>
+
+</head>
+<body>
+    <header>
+        <div class="container1">
+            <div class="logo">
+                <a href="https://www.szamalk-szalezi.hu/" target="_blank"><img src="../Tartalom/quiz/logo.png" alt="logo"></a>
+            </div>
+        <div class="navbar">
+        
+        <div class="icon-bar" onclick="Show()">
+            <i></i>
+            <i></i>
+            <i></i>
+        </div>
+        
+        <ul id="nav-lists">
+            <li class="close"><span onclick="Hide()">×</span></li>
+            <li><a href="../index.html">Kezdőlap</a></li>
+            <li><a href="../html/cikkek.html">Cikkek</a></li>
+            <li><a href="#">Galéria</a></li>
+            <div class="dropdown">
+              <li><a href="#" class="dropbtn">Quiz</li>
+              <i class="fa fa-caret-down"></i>
+              </button>
+              <div class="dropdown-content">
+                  <a href="felnottQuiz.html">Felnőtt</a>
+                  <a href="kozepiskolasQuiz.html">Középiskolás</a>
+                  <a href="altalanosQuiz.html">Általános iskolás</a>
+              </div>
+            </div>
+            <li><a  style="display:none" href="../html/esemenyFotok.html">Eseményfotók</a></li>
+        </ul>
+        </div>
+        </div>
+        </header>
+    <article>
+        <h4>Zero Waste Kollekció</h4>
+        <section id="galeria" ></section>
+    </article>
+    <footer>
+        <p>FENNTARTHATÓSÁGI HÉT</p>
+    </footer>
+
+</body>
+</html>
