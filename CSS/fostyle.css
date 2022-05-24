@@ -4,7 +4,10 @@
 
 body{
     margin: 0;
-
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('../Tartalom/quiz/szamalksuli.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 header{
     width: 100%;
@@ -32,14 +35,16 @@ footer p{
     height: 100%;
     padding-left: 30px;
     padding-right: 15px;
+    color: white;
 }
 #home h1{
-    color: rgb(73, 73, 73);
+    color: white;
     font-size: 55pt;
 
 }
 #home h3{
     text-decoration: underline;
+    color: white;
 }
 .tar{
     font-size: 17pt;
