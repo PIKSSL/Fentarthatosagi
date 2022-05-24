@@ -4,10 +4,11 @@
 
 body{
     margin: 0;
+    background-color: rgb(240, 240, 240);
+
 }
 header{
     width: 100%;
-
     background-size: cover;
     background-position: center center;
     position: relative;
@@ -31,16 +32,16 @@ footer p{
     height: 100%;
     padding-left: 30px;
     padding-right: 15px;
-    color: white;
+
 }
 #home h1{
-    color: white;
+  color: rgb(73, 73, 73);
     font-size: 55pt;
 
 }
 #home h3{
     text-decoration: underline;
-    color: white;
+
 }
 .tar{
     font-size: 17pt;
